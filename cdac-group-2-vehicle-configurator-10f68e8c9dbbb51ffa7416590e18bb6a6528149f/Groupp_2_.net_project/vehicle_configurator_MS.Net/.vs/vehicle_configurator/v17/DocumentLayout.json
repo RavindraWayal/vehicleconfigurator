@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\invoice\\invoicerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\invoice\\invoicerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\manufacturerss\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\manufacturerss\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\model\\modelrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\model\\modelrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\model\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\model\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\segments\\isegmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\segments\\isegmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\segments\\segmentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\segments\\segmentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\repository\\scottdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:repository\\scottdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\models\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:models\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\models\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:models\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\alternatecomponents\\alternatecomponentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\alternatecomponents\\alternatecomponentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\alternatecomponents\\ialternatecomponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\alternatecomponents\\ialternatecomponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\component\\componentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\component\\componentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\component\\icomponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\component\\icomponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\email\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\email\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\email\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\email\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\manufacturerss\\imanufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\manufacturerss\\imanufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\userregistration\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\userregistration\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\userregistration\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\userregistration\\userrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\vehicle\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\vehicle\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\services\\vehicle\\vehiclerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\vehicle\\vehiclerepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\controllers\\manufacturerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:controllers\\manufacturerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\controllers\\segmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:controllers\\segmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\controllers\\sendmailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:controllers\\sendmailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\controllers\\alternatecomponentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:controllers\\alternatecomponentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|c:\\users\\pc\\downloads\\vehical-configurator-pg-dac-main\\vehical-configurator-pg-dac-main\\vehicle_configurator_ms.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Invoice\\InvoiceRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Invoice\\InvoiceRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Invoice\\InvoiceRepositoryImpl.cs",
+              "RelativeToolTip": "Services\\Invoice\\InvoiceRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:06:01.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:03:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScottDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Repository\\ScottDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\ScottDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Repository\\ScottDbContext.cs",
+              "RelativeToolTip": "Repository\\ScottDbContext.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:03:21.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SegmentServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Segments\\SegmentServiceImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Segments\\SegmentServiceImpl.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Segments\\SegmentServiceImpl.cs",
+              "RelativeToolTip": "Services\\Segments\\SegmentServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:00:41.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISegmentService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Segments\\ISegmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Segments\\ISegmentService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Segments\\ISegmentService.cs",
+              "RelativeToolTip": "Services\\Segments\\ISegmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:00:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Model\\IModelRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Model\\IModelRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Model\\IModelRepository.cs",
+              "RelativeToolTip": "Services\\Model\\IModelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:02:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Model\\ModelRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Model\\ModelRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Model\\ModelRepositoryImpl.cs",
+              "RelativeToolTip": "Services\\Model\\ModelRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:02:05.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManufacturerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Manufacturerss\\ManufacturerRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Manufacturerss\\ManufacturerRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Manufacturerss\\ManufacturerRepository.cs",
+              "RelativeToolTip": "Services\\Manufacturerss\\ManufacturerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:02:33.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Models\\MailSettings.cs",
+              "RelativeDocumentMoniker": "Models\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Models\\MailSettings.cs",
+              "RelativeToolTip": "Models\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:16:26.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Models\\MailRequest.cs",
+              "RelativeDocumentMoniker": "Models\\MailRequest.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Models\\MailRequest.cs",
+              "RelativeToolTip": "Models\\MailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:10:29.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlternateComponentRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\AlternateComponents\\AlternateComponentRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Services\\AlternateComponents\\AlternateComponentRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\AlternateComponents\\AlternateComponentRepositoryImpl.cs",
+              "RelativeToolTip": "Services\\AlternateComponents\\AlternateComponentRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:03:12.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAlternateComponentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\AlternateComponents\\IAlternateComponentRepository.cs",
+              "RelativeDocumentMoniker": "Services\\AlternateComponents\\IAlternateComponentRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\AlternateComponents\\IAlternateComponentRepository.cs",
+              "RelativeToolTip": "Services\\AlternateComponents\\IAlternateComponentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:03:10.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComponentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Component\\ComponentRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Component\\ComponentRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Component\\ComponentRepository.cs",
+              "RelativeToolTip": "Services\\Component\\ComponentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:02:59.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "Models\\Model.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Models\\Model.cs",
+              "RelativeToolTip": "Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:59:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IComponentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Component\\IComponentRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Component\\IComponentRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Component\\IComponentRepository.cs",
+              "RelativeToolTip": "Services\\Component\\IComponentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:02:52.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Email\\IMailService.cs",
+              "RelativeDocumentMoniker": "Services\\Email\\IMailService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Email\\IMailService.cs",
+              "RelativeToolTip": "Services\\Email\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:02:36.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IManufacturerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Manufacturerss\\IManufacturerRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Manufacturerss\\IManufacturerRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Manufacturerss\\IManufacturerRepository.cs",
+              "RelativeToolTip": "Services\\Manufacturerss\\IManufacturerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:02:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Email\\MailService.cs",
+              "RelativeDocumentMoniker": "Services\\Email\\MailService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Email\\MailService.cs",
+              "RelativeToolTip": "Services\\Email\\MailService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:39:34.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\UserRegistration\\IUser.cs",
+              "RelativeDocumentMoniker": "Services\\UserRegistration\\IUser.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\UserRegistration\\IUser.cs",
+              "RelativeToolTip": "Services\\UserRegistration\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:00:40Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Vehicle\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Vehicle\\IVehicleRepository.cs",
+              "RelativeToolTip": "Services\\Vehicle\\IVehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:00:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehicleRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Vehicle\\VehicleRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Vehicle\\VehicleRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\Vehicle\\VehicleRepositoryImpl.cs",
+              "RelativeToolTip": "Services\\Vehicle\\VehicleRepositoryImpl.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:59:05.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManufacturersController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\ManufacturersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManufacturersController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\ManufacturersController.cs",
+              "RelativeToolTip": "Controllers\\ManufacturersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:54:17.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\ModelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ModelController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\ModelController.cs",
+              "RelativeToolTip": "Controllers\\ModelController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:54:09.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:00:02.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:58:09.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\UserRegistration\\UserRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Services\\UserRegistration\\UserRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Services\\UserRegistration\\UserRepositoryImpl.cs",
+              "RelativeToolTip": "Services\\UserRegistration\\UserRepositoryImpl.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:55:35.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AlternateComponentController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\AlternateComponentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlternateComponentController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\AlternateComponentController.cs",
+              "RelativeToolTip": "Controllers\\AlternateComponentController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:53:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:41:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SendMailController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\SendMailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SendMailController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\SendMailController.cs",
+              "RelativeToolTip": "Controllers\\SendMailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:41:14.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SegmentController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\SegmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SegmentController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Controllers\\SegmentController.cs",
+              "RelativeToolTip": "Controllers\\SegmentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:58:23.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:48:24.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Vehical-Configurator-PG-DAC-main\\Vehical-Configurator-PG-DAC-main\\vehicle_configurator_MS.Net\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T09:50:04.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

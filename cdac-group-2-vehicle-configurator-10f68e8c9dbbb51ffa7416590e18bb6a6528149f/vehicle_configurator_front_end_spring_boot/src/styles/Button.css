@@ -1,0 +1,51 @@
+.custom-button {
+  background-color: #ea6995;
+  margin-left: 10px;
+  border: 1px solid #ea6995;
+  color: black;
+  transition: color 0.3s ease; /* Optional: smooth transition */
+
+}
+
+.custom-button:hover {
+  color: white;
+}
+
+
+.plusbtn
+{
+  
+        background-color: transparent;
+        margin-left: 10px;
+        font-weight: bold;
+        border: 1px solid green;
+        color: green;
+        transition: color 0.3s ease; /* Optional: smooth transition */
+      
+      
+      
+      
+}
+.plusbtn:hover {
+    background-color: rgba(111, 255, 111, 0.966);
+   
+  }
+
+
+ .minusbtn
+ {
+    background-color: transparent;
+    font-weight: bold;
+    margin-left: 10px;
+    border: 1px solid red;
+    color: red;
+    transition: color 0.3s ease; /* Optional: smooth transition */
+    
+} 
+
+ .minusbtn:hover
+ {
+    background-color: rgba(255, 111, 111, 0.966);
+ }
+
+

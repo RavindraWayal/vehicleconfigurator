@@ -1,0 +1,59 @@
+@media screen and (max-width: 400px) {
+  #configurator {
+    padding: 20px;
+    width: 111%;
+  }
+  #configurator,
+  #services,
+  #Register,
+  #login,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+#contact-us-container{
+  height:95%;
+  padding-top: 13rem;
+}
+#configurator{
+  padding-top: 20em;
+}
+.overlay-panel h1{
+  color:white;
+}
+
+/* ChatBot Hover Styles */
+.chatbot-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  width: 60px; /* Start as a small circular icon */
+  height: 60px;
+  overflow: hidden;
+  transition: width 0.4s ease, height 0.4s ease;
+  border-radius: 50%;
+  background-color: #ea6995; /* Updated background color */
+  cursor: pointer; /* Indicate it's interactable */
+}
+
+.chatbot-container:hover {
+  width: 400px; /* Expand to full size on hover */
+  height: 500px;
+  border-radius: 20px; /* Soft corners for a more polished look */
+}
+
+.chatbot-container .rsc-container {
+  width: 100% !important;
+  height: 100% !important;
+  visibility: hidden; /* Initially hidden */
+}
+
+.chatbot-container:hover .rsc-container {
+  visibility: visible; /* Visible on hover */
+}
